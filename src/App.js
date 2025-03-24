@@ -1,9 +1,11 @@
+import { BrowserRouter } from "react-router-dom";
+
 
 function App() {
   return (
-    <div className="App">
-      Olá. Mundo
-    </div>
+    <BrowserRouter>
+    
+    </BrowserRouter>
   );
 }
 
