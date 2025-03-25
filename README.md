@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Olá Mundo 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto de blog desenvolvido em React, criado como parte do curso de React da Alura. O projeto demonstra conceitos fundamentais de React e roteamento.
 
-## Available Scripts
+## 💻 Tecnologias Utilizadas
 
-In the project directory, you can run:
+- React
+- React Router DOM
+- CSS Modules
+- JavaScript
 
-### `npm start`
+## ✨ Funcionalidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Página inicial com posts do blog
+- Página "Sobre mim"
+- Páginas individuais para cada post
+- Roteamento dinâmico
+- Layout responsivo
+- Página 404 personalizada
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Como Executar o Projeto
 
-### `npm test`
+1. Clone o repositório:
+```bash
+git clone https://github.com/Alberto-Oliveira00/ola-mundo.git
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Entre no diretório do projeto:
+```bash
+cd ola-mundo
+```
 
-### `npm run build`
+3. Instale as dependências:
+```bash
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. Execute o projeto:
+```bash
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+O projeto estará disponível em `http://localhost:3000`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📁 Estrutura do Projeto
 
-### `npm run eject`
+- `/src`
+  - `/components` - Componentes reutilizáveis
+  - `/pages` - Páginas da aplicação
+  - `/assets` - Imagens e recursos estáticos
+  - `/routes` - Configuração de rotas
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🤝 Contribuindo
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📝 Licença
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Learn More
+## 👨‍💻 Autor
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Feito por Alberto Oliveira - [LinkedIn]((https://www.linkedin.com/in/alberto-oliveira-1876a1301/))
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐️ Se este projeto te ajudou, considere dar uma estrela!
